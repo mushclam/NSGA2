@@ -1,0 +1,49 @@
+﻿  pch.cpp
+  GeneticAlgorithm.cpp
+c:\users\j to the w\source\repos\nsga2\nsga2\geneticalgorithm.cpp(29): warning C4244: '초기화 중': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+c:\users\j to the w\source\repos\nsga2\nsga2\geneticalgorithm.cpp(31): warning C4244: '=': 'int'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+c:\users\j to the w\source\repos\nsga2\nsga2\geneticalgorithm.cpp(35): warning C4244: '초기화 중': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+c:\users\j to the w\source\repos\nsga2\nsga2\geneticalgorithm.cpp(37): warning C4244: '=': 'int'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+c:\users\j to the w\source\repos\nsga2\nsga2\geneticalgorithm.cpp(84): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\j to the w\source\repos\nsga2\nsga2\geneticalgorithm.cpp(89): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\j to the w\source\repos\nsga2\nsga2\geneticalgorithm.cpp(93): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\j to the w\source\repos\nsga2\nsga2\geneticalgorithm.cpp(111): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\j to the w\source\repos\nsga2\nsga2\geneticalgorithm.cpp(118): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\j to the w\source\repos\nsga2\nsga2\geneticalgorithm.cpp(121): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\j to the w\source\repos\nsga2\nsga2\geneticalgorithm.cpp(126): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\j to the w\source\repos\nsga2\nsga2\geneticalgorithm.cpp(171): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\j to the w\source\repos\nsga2\nsga2\geneticalgorithm.cpp(174): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Individual.cpp
+c:\users\j to the w\source\repos\nsga2\nsga2\individual.cpp(15): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+c:\users\j to the w\source\repos\nsga2\nsga2\individual.cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\j to the w\source\repos\nsga2\nsga2\individual.cpp(24): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\j to the w\source\repos\nsga2\nsga2\individual.cpp(27): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\j to the w\source\repos\nsga2\nsga2\individual.cpp(34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  NSGA2.cpp
+c:\users\j to the w\source\repos\nsga2\nsga2\nsga2.cpp(22): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\j to the w\source\repos\nsga2\nsga2\nsga2.cpp(31): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\j to the w\source\repos\nsga2\nsga2\nsga2.cpp(43): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Population.cpp
+c:\users\j to the w\source\repos\nsga2\nsga2\population.cpp(39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  NSGA2.vcxproj -> C:\Users\J to the W\Source\Repos\NSGA2\Debug\NSGA2.exe
